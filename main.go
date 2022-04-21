@@ -126,6 +126,6 @@ func main() {
 	//-w 옵션을 사용하면 스타일이 맞춰진 코드를 원본 소스 파일에 다시 저장한다.
 	// $ gofmt -w prog.go
 
-	fmt.Println("Fuck you man")
+	fmt.Println("Fuck you man!")
 
 }
